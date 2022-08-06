@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-file MD033 MD041 -->
 <p>
   <h1 align="center" style="color: #58a5fe"><img src="assets/hi.gif" alt="Hi there!" height="40"> <b>Hi there, I'm Ansgar</b></h1>
-  <h3>A passionate software developer with focus on ABAP OO (SAP Extended Warehouse Management) and SAPUI5 in my business life. In my free time I enjoy to explore some other technologies like Vue.js or TypeScript.</h3>
+  A passionate software developer with focus on ABAP OO (SAP Extended Warehouse Management) and SAPUI5 in my business life. In my free time I enjoy to explore some other technologies like Vue.js or TypeScript.
 </p>
 
 <br />
