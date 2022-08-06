@@ -132,11 +132,18 @@
   <b>GitHub Stats</b>
 </h2>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansgarlichter&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ansgarlichter&theme=github_dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 <br/>
 
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansgarlichter&exclude_repo=machineLearningAssignment&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansgarlichter&exclude_repo=machineLearningAssignment&theme=github_dark&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 <hr>
 <img src="https://komarev.com/ghpvc/?username=ansgarlichter&&style=flat-square" />
