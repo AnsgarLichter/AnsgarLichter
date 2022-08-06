@@ -9,7 +9,6 @@
 <h2 style="color: #58a5fe">
   <img src="assets/connectWithMe.gif" alt="Hi there!" height="30" />
   <b>Connect with me</b>
-  <hr>
 </h2>
 
 <p align="left">
@@ -36,7 +35,6 @@
 <h2 style="color: #58a5fe">
   <img src="assets/techStack.gif" height="30" />
   <b>Tech Stack</b>
-  <hr>
 </h2>
 
 <h3 style="color: #58a5fe">Frontend</h3>
@@ -119,8 +117,6 @@
 <h2 style="color: #58a5fe">
   <img src="assets/projects.gif" height="30"/>
   <b>My Favourite Projects</b>
-  <hr>
-
 </h2>
 
 <p align="center">
@@ -134,7 +130,6 @@
 <h2 style="color: #58a5fe">
   <img src="assets/gitHubStats.gif" height="30">
   <b>GitHub Stats</b>
-  <hr>
 </h2>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansgarlichter&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
