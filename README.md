@@ -147,5 +147,4 @@
 
 <hr>
 <img src="https://komarev.com/ghpvc/?username=ansgarlichter&&style=flat-square" />
-<br />
 Icons by <a target="_blank" href="https://icons8.com">Icons8</a> </small>
