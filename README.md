@@ -13,7 +13,7 @@
 </h2>
 
 <p align="left">
-  <a href="https://ansgarlichter.online" target="_blank">
+  <a href="https://ansgarlichter.com" target="_blank">
     <img src=https://img.shields.io/badge/homepage-3d3d3d.svg?&style=for-the-badge&logoColor=white alt=homepage />
   </a>
   &emsp;
