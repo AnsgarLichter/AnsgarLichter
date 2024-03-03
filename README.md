@@ -123,7 +123,7 @@
 <p>
   <div align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsgarLichter&repo=homepage&theme=github_dark" /></div>
   <div align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsgarLichter&repo=catchthetrain&theme=github_dark" /></div>
-  <div align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsgarLichter&repo=funny-fart&theme=github_dark" /></div>
+  <div align="center"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AnsgarLichter&repo=exportkindleclippingstonotion&theme=github_dark" /></div>
 </p>
 
 <br/>
