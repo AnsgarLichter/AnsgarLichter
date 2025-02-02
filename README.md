@@ -1,8 +1,11 @@
 <!-- markdownlint-disable-file MD033 MD041 -->
 <p>
   <h1 align="center" style="color: #58a5fe"><img src="assets/hi.gif" alt="Hi there!" height="40"> <b>Hi there, I'm Ansgar</b></h1>
-  I'm currently doing my master's degree in computer science at SAP. I always enjoy exploring new technologies.<br /> 
-  In my past I have already gained professional experience with ABAP 00 and SAPUI5.
+  I'm currently a development consultant at SAP, primarily working with CAP Node.js, SAP Fiori Elements, and SAPUI5.
+  <br />
+  In the past, I have gained professional experience with ABAP OO and SAPUI5 in the context of SAP EWM
+  <br />
+  I always enjoy exploring new technologies.
 </p>
 
 <br />
